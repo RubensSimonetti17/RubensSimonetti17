@@ -7,7 +7,7 @@ Desde que tive meu primeiro contato com código, percebi como a tecnologia pode 
 
 Sempre gostei de trabalhar com dados, explorando padrões, extraindo insights e tornando a informação mais acessível e útil. Agora, estou mergulhando de cabeça no desenvolvimento de software, buscando aprofundar meus conhecimentos e me tornar um desenvolvedor completo.  
 
-O que me motiva? O desafio de criar, resolver problemas e ver uma ideia ganhar vida através do código. Estou sempre aprendendo, experimentando novas tecnologias e aprimorando minhas habilidades para construir soluções eficientes e inovadoras.  
+O que me motiva? O desafio de criar e resolver problemas através do código. Estou sempre aprendendo, experimentando novas tecnologias e aprimorando minhas habilidades para construir soluções eficientes e inovadoras.  
 
 Seja muito bem-vindo ao meu repositório! Vamos trocar ideias e evoluir juntos. 
 
